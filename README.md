@@ -29,3 +29,11 @@ $sudo nano /etc/dhcpcd.conf
 Despues de esto, debería aparacer una pantalla con las configuraciones de red. Asegurese de editarlas y hacer que luzcan como se ve en la imagen a continueción:
 
 ![](RedConfig.png)
+
+Luego de eso, asegurese de guardar los cambios y luego ingrese el comando: 
+
+$sudo reboot
+
+luego de esto la "consola" se reiniciará y los cambios a la red deberían haberse aplicado.
+despues de esto incie Retropie normalmente y vaya a la seccion donde dice "Retroarch" y revise que todo luzca como se muestra en las imagenes
+
