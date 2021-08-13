@@ -27,3 +27,5 @@ Luego, debería permitir escribir codigos (de lo contrario, puede simplemente pr
 $sudo nano /etc/dhcpcd.conf
 
 Despues de esto, debería aparacer una pantalla con las configuraciones de red. Asegurese de editarlas y hacer que luzcan como se ve en la imagen a continueción:
+
+![](RedConfig.png)
