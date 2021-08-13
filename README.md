@@ -44,3 +44,6 @@ y despues de hacer esto dirijase al apartado de "Retroarch Netplay" y deje las c
 ![](NetplayConfig3.jpg)
 ![](NetplayConfig.jpg)
 ![](NetplayConfig2.jpg)
+
+Ahora solamente faltaría configurar el Host para lograr que tus amigos se conceten a tus juegos.
+Para esto dirijase al apartado que tiene como nombe ""
