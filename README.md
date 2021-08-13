@@ -41,4 +41,6 @@ despues de esto incie Retropie normalmente y vaya a la seccion donde dice "Retro
 
 y despues de hacer esto dirijase al apartado de "Retroarch Netplay" y deje las configuraciones como se ve a continuación
 
-![]()
+![](NetplayConfig.jpg)
+![](NetplayConfig2.jpg)
+![](NetplayConfig3.jpg)
