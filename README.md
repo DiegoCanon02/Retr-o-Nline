@@ -50,4 +50,6 @@ Para esto dirijase al apartado que tiene como nombre "Retroarch Netplay" y deje 
 
 ![](DatosHost.jpg)
 
-cabe mencionar que donde dice 
+(cabe mencionar que donde dice "Set netplay nickname" puede poner el apodo que usted más prefiera)
+
+Y listo, horad de disfrutar con tus amigos la experiencia de Retr-o-Nline
