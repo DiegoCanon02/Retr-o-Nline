@@ -39,11 +39,13 @@ despues de esto incie Retropie normalmente y vaya a la seccion donde dice "Retro
 
 ![](EmuladorConfig.jpg)
 
-y despues de hacer esto dirijase al apartado de "Retroarch Netplay" y deje las configuraciones como se ve a continuación
+y despues de hacer esto dirijase al mismo apartado anterior y deje las configuraciones como se ve a continuación
 
 ![](NetplayConfig3.jpg)
 ![](NetplayConfig.jpg)
 ![](NetplayConfig2.jpg)
 
 Ahora solamente faltaría configurar el Host para lograr que tus amigos se conceten a tus juegos.
-Para esto dirijase al apartado que tiene como nombe ""
+Para esto dirijase al apartado que tiene como nombre "Retroarch Netplay" y deje sus datos de la siguiente manera:
+
+![]()
