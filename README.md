@@ -37,3 +37,8 @@ $sudo reboot
 luego de esto la "consola" se reiniciará y los cambios a la red deberían haberse aplicado.
 despues de esto incie Retropie normalmente y vaya a la seccion donde dice "Retroarch" y revise que todo luzca como se muestra en las imagenes
 
+![](EmuladorConfig.jpg)
+
+y despues de hacer esto dirijase al apartado de "Retroarch Netplay" y deje las configuraciones como se ve a continuación
+
+![]()
